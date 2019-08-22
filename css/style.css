@@ -46,6 +46,7 @@ small {
 /*///// Section /////*/
 
 header a {
+  transition: color 2s ease-out;
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
