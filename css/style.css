@@ -76,7 +76,9 @@ header a {
 }
 
  #press img {
+  transition: border 1s ease-out;
 	border: 5px #ccc solid;
+	padding: 1px;
 }
 
  #press img:hover {
