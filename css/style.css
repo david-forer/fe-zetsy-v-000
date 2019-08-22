@@ -28,7 +28,7 @@ H1 {
 	border-bottom: 1px solid #ccc;
 }
 
-{
+H2 {
 	color: rgb(152, 173, 165);
 	font-size: 2em;
 }
@@ -38,3 +38,14 @@ H1 {
 	font-size: 1em;
 	margin: 0 0 20px 0;
 }
+
+/*///// Section /////*/
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+ header a:hover {
+	color: rgb(111,127,122);
+ }
